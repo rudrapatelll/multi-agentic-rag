@@ -164,4 +164,4 @@ This project is maintained by Rudra Patel, an AI Automation Engineer with over 2
 
 Contact:
 - Email: patel.rudra@ufl.edu
-- LinkedIn: https://www.linkedin.com/in/rudra-patel
+- LinkedIn: https://www.linkedin.com/in/rudrapatell26/
